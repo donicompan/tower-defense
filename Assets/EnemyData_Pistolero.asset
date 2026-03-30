@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a01494e715ad9274cbc37946f12bbcba, type: 3}
+  m_Name: EnemyData_Pistolero
+  m_EditorClassIdentifier: 
+  enemyName: EnemyData_Pistolero
+  speed: 3
+  health: 60
+  goldReward: 15
+  damage: 1
+  scale: 1
+  attacksTowers: 1
+  towerDetectRange: 8
+  towerDamage: 10
+  towerAttackRate: 0.8
+  isBoss: 0
+  modelPrefab: {fileID: 8619338778009079851, guid: 47a3741b253f088469eedd6d403dd89a, type: 3}
+  modelScale: 1
