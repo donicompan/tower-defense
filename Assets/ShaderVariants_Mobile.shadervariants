@@ -8,97 +8,42 @@ ShaderVariantCollection:
   m_PrefabAsset: {fileID: 0}
   m_Name: ShaderVariants_Mobile
   m_Shaders:
-  - first: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  - first: {fileID: 4800000, guid: 8d2bb70cbf9db8d4da26e15b26e74248, type: 3}
     second:
       variants:
-      - keywords: 
+      - keywords:
         passType: 0
-      - keywords: 
-        passType: 8
-      - keywords: 
-        passType: 11
-      - keywords: _EMISSION
-        passType: 11
-      - keywords: 
-        passType: 13
-      - keywords: _ALPHAPREMULTIPLY_ON _SURFACE_TYPE_TRANSPARENT
-        passType: 13
-      - keywords: _EMISSION
-        passType: 13
-      - keywords: _NORMALMAP _OCCLUSIONMAP
-        passType: 13
-      - keywords: _NORMALMAP _OCCLUSIONMAP _PARALLAXMAP
-        passType: 13
-  - first: {fileID: 4800000, guid: 0406db5a14f94604a8c57ccfbc9f3b46, type: 3}
-    second:
-      variants:
-      - keywords: 
+      - keywords: _NORMALMAP
         passType: 0
-      - keywords: 
+      - keywords:
         passType: 13
   - first: {fileID: 4800000, guid: 69c1f799e772cb6438f56c23efccb782, type: 3}
     second:
       variants:
-      - keywords: 
+      - keywords:
         passType: 0
-      - keywords: 
-        passType: 8
-      - keywords: 
-        passType: 11
-      - keywords: 
-        passType: 13
-  - first: {fileID: 4800000, guid: b7839dad95683814aa64166edc107ae2, type: 3}
-    second:
-      variants:
-      - keywords: 
-        passType: 0
-      - keywords: 
+      - keywords:
         passType: 13
   - first: {fileID: 4800000, guid: 650dd9526735d5b46b79224bc6e94025, type: 3}
     second:
       variants:
-      - keywords: 
+      - keywords:
         passType: 0
-      - keywords: 
-        passType: 11
-      - keywords: 
+      - keywords:
+        passType: 13
+  - first: {fileID: 4800000, guid: 0406db5a14f94604a8c57ccfbc9f3b46, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords:
         passType: 13
   - first: {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
     second:
       variants:
-      - keywords: 
+      - keywords:
         passType: 0
       - keywords: OUTLINE_ON
         passType: 0
       - keywords: OUTLINE_ON UNDERLAY_ON
-        passType: 0
-  - first: {fileID: -6465566751694194690, guid: ca2ed216f98028c4dae6c5224a952b3c, type: 3}
-    second:
-      variants:
-      - keywords: 
-        passType: 0
-  - first: {fileID: -6465566751694194690, guid: 124c112a6e8f1a54e8b0870e881b56d8, type: 3}
-    second:
-      variants:
-      - keywords: 
-        passType: 0
-      - keywords: 
-        passType: 8
-      - keywords: 
-        passType: 13
-  - first: {fileID: -6465566751694194690, guid: a3d800b099a06e0478fb790c5e79057a, type: 3}
-    second:
-      variants:
-      - keywords: 
-        passType: 0
-      - keywords: 
-        passType: 8
-      - keywords: 
-        passType: 11
-      - keywords: 
-        passType: 13
-  - first: {fileID: -6465566751694194690, guid: f63d574838ccfb44f84acc05fed0af48, type: 3}
-    second:
-      variants:
-      - keywords: 
         passType: 0
